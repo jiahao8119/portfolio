@@ -8,7 +8,7 @@ export const projects = [
       githubLink: 'https://github.com',
     },
     {
-      title: 'Task Management App',
+      title: 'Movie search app',
       description: 'Collaborative task management tool with real-time updates',
       image: 'https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&w=800',
       technologies: ['React', 'Firebase', 'Tailwind CSS'],
@@ -16,7 +16,7 @@ export const projects = [
       githubLink: 'https://github.com',
     },
     {
-      title: 'AI Chat Application',
+      title: 'Twitter clone',
       description: 'Real-time chat application powered by artificial intelligence',
       image: 'https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=800',
       technologies: ['React', 'OpenAI API', 'WebSocket'],
