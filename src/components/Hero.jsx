@@ -18,7 +18,7 @@ const Hero = () => {
             className="lg:w-1/2"
           >
             <img
-              src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=500"
+              src="/src/assets/profilehead.png"
               alt="Profile"
               className="rounded-full w-48 h-48 object-cover mx-auto lg:mx-0 shadow-xl"
             />
